@@ -1,0 +1,8 @@
+procurar IPs ... nmap -sP 192.168.0.1/24
+
+
+entrar no programa ... cd Área\ de\ Trabalho/ ...       		       python Button.py
+
+
+acessar raspberry ... ssh pi@( IP adress ) 
+		      senha raspberry
